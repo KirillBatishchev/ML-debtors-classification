@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy>=1.10.1
+imblearn>=0.0
+xgboost>=3.1.1
